@@ -1,9 +1,11 @@
 # Node.js on Google Cloud by example
 
-This series of examples of gradually increasing complexity assumes only a
-rudimentary knowledge of JavaScript, but otherwise no other knowledge.
-As you go through the examples, you will gain hands-on experience and skills
-building server apps with the following:
+This is a series of examples that gradually build on each other to help you
+gain hands-on experience and skills creating server apps with Node.js that
+run on Google Cloud.
+
+To get started, you only need basic knowledge of JavaScript and Node.js.
+
 * [Node.js] - a JavaScript runtime for apps (like fast servers)
 * [Express] - a fast, unopinionated, minimalist web framework for Node.js
 * [Mocha] - a simple, flexible, and fun test framework
