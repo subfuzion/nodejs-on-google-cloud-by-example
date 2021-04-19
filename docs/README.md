@@ -5,8 +5,9 @@ gain hands-on experience and skills creating server apps with Node.js that
 run on Google Cloud. To get started, you only need basic knowledge of
 JavaScript and Node.js.
 
-After going through this series of examples, you will have developed skills
-working with the following:
+After going through this series of examples, you will have gained a good
+understanding of building and running Node.js services on Google Cloud
+and acquired usefull skills working with the following:
 
 * [Node.js] - a JavaScript runtime for apps (like fast servers)
 * [Express] - a fast, unopinionated, minimalist web framework for Node.js
