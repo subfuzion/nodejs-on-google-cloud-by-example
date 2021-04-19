@@ -1,24 +1,20 @@
 # Node.js on Google Cloud by example
 
-This series of examples on gradually increasing complexity assumes only a
-rudimentary knowledge of JavaScript, but otherwise no other knowledge of
+This series of examples of gradually increasing complexity assumes only a
+rudimentary knowledge of JavaScript, but otherwise no other knowledge.
+As you go through the examples, you will gain hands-on experience and skills
+building server apps with the following:
 * [Node.js] - a JavaScript runtime for apps (like fast servers)
 * [Express] - a fast, unopinionated, minimalist web framework for Node.js
 * [Mocha] - a simple, flexible, and fun test framework
-* [Google Cloud's serverless platform] (Cloud Run, Cloud Functions, AppEngine)
-* [Cloud Build], Google's serverless CI/CD platform
+* [Node.js client] - for access to other backend [Google APIs]
+* [Google Cloud's serverless platform] - for running apps on Cloud Run, Cloud Functions, and AppEngine
+* [Cloud Build] - Google's serverless CI/CD platform
+* [Operations suite] - tools for monitoriting and analyzing app performance
 * [Docker] - the modern approach to packaging apps as portable containers
 
-As you go through the examples, you will gain hands-on experience with the following
-* Creating [Node.js] server apps
-* That use [Express] for the web framework
-* That use [Mocha] for automated tests
-* That use [Cloud Build] to test and then deploy your apps
-* That are deployed to [Google Cloud's serverless platform]
-* That can use the [Node.js client] to access other [Google APIs] for data, workflows, and other services
-* That can be monitored and analyzed with Google Cloud's [operations suite]
 
-
+<!-- Reference links -->
 [Cloud Build]: https://cloud.google.com/build
 [Docker]: https://www.docker.com/
 [Express]: https://expressjs.com/
