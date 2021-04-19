@@ -1,12 +1,14 @@
-const http = require('http');
+import { createServer } from 'http';
 
-const PORT = 8080;
+const PORT = process.env.PORT || '8080';
 
-const app = http.createServer((_, res) => {
-  // res.writeHead(200, { 'content-type': 'text/html' });
+const app = createServer((_, res) => {
+  console.log('received request');
+  res.writeHead(200, {'content-type': 'text/html'});
   res.end('<h1>Hello, World!</h1>');
 });
 
-app.listen(PORT, 'localhost');
-console.log(`server listening on localhost:${PORT}`);
+app.listen(PORT, () => {
+  console.log(`server listening on :${PORT}`);
+});
  

@@ -1,4 +1,1 @@
-experimental modules
-
-    $ node --experimental-modules app.mjs
-
+Simple Node.js server that responds with 'Hello, World!'.
