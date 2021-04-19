@@ -2,7 +2,7 @@
   "name": "lesson-03-B",
   "version": "1.0.0",
   "description": "Simple Express app with multiple middleware functions",
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "author": "Tony Pujals <tonypujals@google.com> (http://twitter.com/tonypujals)",
   "license": "MIT",
   "scripts": {
     "start": "node app.js"
