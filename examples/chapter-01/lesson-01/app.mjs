@@ -1,8 +1,8 @@
-const http = require('http');
+import { createServer } from 'http';
 
-const PORT = 8080;
+const PORT = 8888;
 
-const app = http.createServer((_, res) => {
+const app = createServer((_, res) => {
   // res.writeHead(200, { 'content-type': 'text/html' });
   res.end('<h1>Hello, World!</h1>');
 });
