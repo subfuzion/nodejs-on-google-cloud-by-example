@@ -16,7 +16,7 @@ As you go through the examples, you will gain hands-on experience with the follo
 * That use [Cloud Build] to test and then deploy your apps
 * That are deployed to [Google Cloud's serverless platform]
 * That can use the [Node.js client] to access other [Google APIs] for data, workflows, and other services
-* That can be monitored and analyzed with Google Cloud's [operation suite]
+* That can be monitored and analyzed with Google Cloud's [operations suite]
 
 
 [Cloud Build]: https://cloud.google.com/build
