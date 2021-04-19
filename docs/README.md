@@ -13,7 +13,7 @@ As you go through the examples, you will gain hands-on experience with the follo
 * Creating [Node.js] server apps
 * That use [Express] for the web framework
 * That use [Mocha] for automated tests
-* That use Cloud Build to test and then deploy your apps
+* That use [Cloud Build] to test and then deploy your apps
 * That are deployed to [Google Cloud's serverless platform]
 * That can use the [Node.js client] to access other [Google APIs] for data, workflows, and other services
 * That can be monitored and analyzed with Google Cloud's [operation suite]
